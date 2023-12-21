@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Nandhan's Chrome Utilities",
+    "version": "1.0.0",
+    "description": "A collection of utilities I use in my daily work implemented as a Chrome extension",
+    "author": "Nandhan Natarajan",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Nandhan's Chrome Utilities"
+    }
+}
